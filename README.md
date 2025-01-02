@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello 👋, I'm Mettai Sai Chandu</h1>
 <h3 align="center">Graduate passionate about software programming and skilled at Web Development and Python Developer. Highly trained in Python and Web Development.</h3>
 
